@@ -1,0 +1,16 @@
+{
+"resturent name" : "Pizza Hut",
+"Branches of pizza hut" : ["karachi","lahore","islamabad","peshawar","multan"],
+"total Branches" : 5,
+"mennu item" : ["chicken tikkah","malai boti","fantum pizza","mughlai pizza","Veggie Pizza"],
+"chicken tikkah" : {
+  "size" : ["large","regular"],
+  "price" : {
+    "regular" : 500,
+    "large"  : 900
+    
+  }
+    
+}
+
+}
